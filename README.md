@@ -3,7 +3,7 @@ Newton’s Interpolating Polynomial MATLAB Function
 
 <p>&#8226; The function requires 4 inputs: respectively x, f(x), sought x value, and order.</p>
 
-<b>&#8226; Example </b>
+<b> Example </b>
 
 x = [1 4 6 5];
 
