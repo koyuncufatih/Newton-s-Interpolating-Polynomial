@@ -1,3 +1,5 @@
 # Newton-s-Interpolating-Polynomial
-Newton’s Interpolating Polynomial MATLAB
+Newton’s Interpolating Polynomial MATLAB Function
+
+
 
